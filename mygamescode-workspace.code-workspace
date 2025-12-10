@@ -1,0 +1,31 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"typescript.preferences.importModuleSpecifier": "relative",
+		"editor.formatOnSave": true,
+		"editor.codeActionsOnSave": {
+			"source.fixAll.eslint": "explicit"
+		},
+		"files.exclude": {
+			"**/node_modules": true,
+			"**/build": true,
+			"**/.git": false
+		},
+		"search.exclude": {
+			"**/node_modules": true,
+			"**/build": true
+		},
+		"terminal.integrated.cwd": "C:\\Users\\peter\\aws\\myGames"
+	},
+	"extensions": {
+		"recommendations": [
+			"ms-vscode.vscode-typescript-next",
+			"esbenp.prettier-vscode",
+			"ms-vscode.vscode-json"
+		]
+	}
+}
