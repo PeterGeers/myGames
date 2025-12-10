@@ -50,16 +50,6 @@ const FALLBACK_THEMES: Theme[] = [
 export let THEMES: Theme[] = FALLBACK_THEMES;
 
 export const loadThemes = async (): Promise<Theme[]> => {
-  try {
-    const response = await fetch('./questions.json');
-    if (response.ok) {
-      const themes = await response.json();
-      THEMES = themes;
-      return themes;
-    }
-  } catch (error) {
-    console.log('Using fallback themes');
-  }
   return FALLBACK_THEMES;
 };
 
