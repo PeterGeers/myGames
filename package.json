@@ -2,7 +2,7 @@
   "name": "kids-quiz-game",
   "version": "1.0.0",
   "private": true,
-  "homepage": "https://USERNAME.github.io/REPOSITORY_NAME",
+  "homepage": "https://petergeers.github.io/myGames",
   "dependencies": {
     "@types/node": "^16.18.0",
     "@types/react": "^18.2.0",

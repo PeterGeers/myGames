@@ -148,4 +148,7 @@ Direct feedback: correct → confetti + +10 punten; fout → animatie + leven �
 Volgende ronde of einde (na 3 rondes of 0 levens).
 
 Scorebord + “Speel opnieuw”.
-Can you read
+
+
+
+https://PeterGeers.github.io/myGames
