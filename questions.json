@@ -1,0 +1,81 @@
+[
+  {
+    "id": "voetbal",
+    "title": "Voetbal",
+    "description": "Alles over voetbal: spelers, acties en stadionmomenten.",
+    "questions": [
+      { "id": "v1", "difficulty": "easy", "prompt": "Je scoort dit met je voet in het doel. Wat is het?", "answer": "goal", "type": "multiple-choice", "choices": ["goal", "punt", "score", "bal"] },
+      { "id": "v2", "difficulty": "easy", "prompt": "Hoeveel spelers staan er op het veld per team?", "answer": "11", "type": "multiple-choice", "choices": ["11", "10", "9", "12"] },
+      { "id": "v3", "difficulty": "easy", "prompt": "Wat draagt de keeper aan zijn handen?", "answer": "handschoenen", "type": "multiple-choice", "choices": ["handschoenen", "sokken", "schoenen", "helm"] },
+      { "id": "v4", "difficulty": "easy", "prompt": "Hoe heet de persoon die het spel leidt?", "answer": "scheidsrechter", "type": "multiple-choice", "choices": ["scheidsrechter", "coach", "trainer", "captain"] },
+      { "id": "v13", "difficulty": "easy", "prompt": "Wat is de vorm van een voetbal?", "answer": "rond", "type": "multiple-choice", "choices": ["rond", "vierkant", "driehoek", "ovaal"] },
+      { "id": "v14", "difficulty": "easy", "prompt": "Hoe heet het als je de bal naar een teamgenoot speelt?", "answer": "passen", "type": "multiple-choice", "choices": ["passen", "schieten", "gooien", "slaan"] },
+      { "id": "v15", "difficulty": "easy", "prompt": "Welke kleur kaart is een waarschuwing?", "answer": "geel", "type": "multiple-choice", "choices": ["geel", "rood", "blauw", "groen"] },
+      { "id": "v16", "difficulty": "easy", "prompt": "Hoe lang duurt een voetbalwedstrijd?", "answer": "90 minuten", "type": "multiple-choice", "choices": ["90 minuten", "60 minuten", "120 minuten", "45 minuten"] },
+      { "id": "v6", "difficulty": "medium", "prompt": "Welke kleur kaart krijg je bij een ernstige overtreding?", "answer": "rood", "type": "multiple-choice", "choices": ["rood", "geel", "oranje", "zwart"] },
+      { "id": "v7", "difficulty": "medium", "prompt": "Hoe heet de Nederlandse voetbalbond?", "answer": "KNVB", "type": "multiple-choice", "choices": ["KNVB", "FIFA", "UEFA", "NVB"] },
+      { "id": "v8", "difficulty": "medium", "prompt": "Wat is de bijnaam van het Nederlands elftal?", "answer": "Oranje", "type": "multiple-choice", "choices": ["Oranje", "Rood", "Blauw", "Geel"] },
+      { "id": "v17", "difficulty": "medium", "prompt": "Hoe heet de Nederlandse topcompetitie?", "answer": "Eredivisie", "type": "multiple-choice", "choices": ["Eredivisie", "Champions League", "Premier League", "Bundesliga"] },
+      { "id": "v18", "difficulty": "medium", "prompt": "Welke speler mag de bal met zijn handen aanraken?", "answer": "keeper", "type": "multiple-choice", "choices": ["keeper", "verdediger", "aanvaller", "middenvelder"] },
+      { "id": "v20", "difficulty": "medium", "prompt": "Welke Nederlandse club speelt in Amsterdam?", "answer": "Ajax", "type": "multiple-choice", "choices": ["Ajax", "Feyenoord", "PSV", "AZ"] },
+      { "id": "v12", "difficulty": "hard", "prompt": "Hoe heet het als je de bal met je hoofd speelt?", "answer": "koppen", "type": "multiple-choice", "choices": ["koppen", "trappen", "gooien", "duwen"] },
+      { "id": "v21", "difficulty": "hard", "prompt": "Hoe heet de regel waarbij je te dicht bij het doel staat?", "answer": "buitenspel", "type": "multiple-choice", "choices": ["buitenspel", "binnenspel", "offside", "penalty"] }
+    ]
+  },
+  {
+    "id": "hockey",
+    "title": "Hockey",
+    "description": "Vragen over stick, slagen en toernooien.",
+    "questions": [
+      { "id": "h1", "difficulty": "easy", "prompt": "Je slaat de bal met een...", "answer": "stick", "type": "multiple-choice", "choices": ["stick", "racket", "bat", "club"] },
+      { "id": "h2", "difficulty": "easy", "prompt": "Wat draag je aan je benen voor bescherming?", "answer": "scheenbeschermers", "type": "multiple-choice", "choices": ["scheenbeschermers", "sokken", "schoenen", "broek"] },
+      { "id": "h3", "difficulty": "easy", "prompt": "Hoeveel spelers heeft een hockeyteam op het veld?", "answer": "11", "type": "multiple-choice", "choices": ["11", "10", "9", "12"] },
+      { "id": "h4", "difficulty": "easy", "prompt": "Welke kleur heeft een hockeybal meestal?", "answer": "wit", "type": "multiple-choice", "choices": ["wit", "oranje", "geel", "groen"] },
+      { "id": "h13", "difficulty": "easy", "prompt": "Hoe heet het doel in hockey?", "answer": "goal", "type": "multiple-choice", "choices": ["goal", "net", "korf", "doel"] },
+      { "id": "h14", "difficulty": "easy", "prompt": "Wat draag je op je hoofd voor bescherming?", "answer": "helm", "type": "multiple-choice", "choices": ["helm", "pet", "muts", "hoed"] },
+      { "id": "h16", "difficulty": "easy", "prompt": "Op welk oppervlak speel je hockey?", "answer": "gras", "type": "multiple-choice", "choices": ["gras", "zand", "beton", "ijs"] },
+      { "id": "h7", "difficulty": "medium", "prompt": "Wat is de kleur van het Nederlandse hockeyshirt?", "answer": "oranje", "type": "multiple-choice", "choices": ["oranje", "blauw", "rood", "wit"] },
+      { "id": "h8", "difficulty": "medium", "prompt": "Hoe heet een strafcorner in het hockey?", "answer": "corner", "type": "multiple-choice", "choices": ["corner", "penalty", "vrije slag", "strafschop"] },
+      { "id": "h17", "difficulty": "medium", "prompt": "Hoeveel kwarten heeft een hockeywedstrijd?", "answer": "4", "type": "multiple-choice", "choices": ["4", "2", "3", "6"] },
+      { "id": "h20", "difficulty": "medium", "prompt": "Hoe heet het als je de bal hard wegslaat?", "answer": "slaan", "type": "multiple-choice", "choices": ["slaan", "duwen", "tikken", "rollen"] },
+      { "id": "h24", "difficulty": "hard", "prompt": "Welke positie verdedigt het doel?", "answer": "keeper", "type": "multiple-choice", "choices": ["keeper", "verdediger", "aanvaller", "middenvelder"] }
+    ]
+  },
+  {
+    "id": "muziek",
+    "title": "Muziek & Musical",
+    "description": "Instrumenten, liedjes en musicaltermen.",
+    "questions": [
+      { "id": "m1", "difficulty": "easy", "prompt": "Een instrument met toetsen dat je vaak in bands hoort.", "answer": "piano", "type": "multiple-choice", "choices": ["piano", "gitaar", "drum", "fluit"] },
+      { "id": "m2", "difficulty": "easy", "prompt": "Welk instrument heeft snaren en speel je met je vingers?", "answer": "gitaar", "type": "multiple-choice", "choices": ["gitaar", "piano", "drum", "trompet"] },
+      { "id": "m3", "difficulty": "easy", "prompt": "Wat gebruik je om op een drum te slaan?", "answer": "stokjes", "type": "multiple-choice", "choices": ["stokjes", "handen", "voeten", "vingers"] },
+      { "id": "m4", "difficulty": "easy", "prompt": "Hoeveel lijnen heeft een notenbalk?", "answer": "5", "type": "multiple-choice", "choices": ["5", "4", "6", "3"] },
+      { "id": "m13", "difficulty": "easy", "prompt": "Welk instrument blaas je om geluid te maken?", "answer": "fluit", "type": "multiple-choice", "choices": ["fluit", "gitaar", "piano", "drum"] },
+      { "id": "m14", "difficulty": "easy", "prompt": "Hoe heet een groep muzikanten?", "answer": "band", "type": "multiple-choice", "choices": ["band", "team", "club", "groep"] },
+      { "id": "m15", "difficulty": "easy", "prompt": "Wat gebruik je om piano te spelen?", "answer": "vingers", "type": "multiple-choice", "choices": ["vingers", "stokjes", "voeten", "handen"] },
+      { "id": "m5", "difficulty": "medium", "prompt": "Bekende musical: 'The Phantom of the...'", "answer": "Opera", "type": "multiple-choice", "choices": ["Opera", "Theater", "Musical", "Stage"] },
+      { "id": "m6", "difficulty": "medium", "prompt": "Welk blaasinstrument is geel en heeft kleppen?", "answer": "trompet", "type": "multiple-choice", "choices": ["trompet", "fluit", "saxofoon", "klarinet"] },
+      { "id": "m8", "difficulty": "medium", "prompt": "Musical over een leeuw: 'The ... King'", "answer": "Lion", "type": "multiple-choice", "choices": ["Lion", "Tiger", "Bear", "Elephant"] },
+      { "id": "m12", "difficulty": "hard", "prompt": "Hoe heet een groep van vier muzikanten?", "answer": "kwartet", "type": "multiple-choice", "choices": ["kwartet", "trio", "duo", "kwintet"] }
+    ]
+  },
+  {
+    "id": "scouting",
+    "title": "Scouting",
+    "description": "Natuur, knopen en kampvuurliedjes.",
+    "questions": [
+      { "id": "s1", "difficulty": "easy", "prompt": "Je maakt deze om twee touwen te verbinden...", "answer": "knoop", "type": "multiple-choice", "choices": ["knoop", "lus", "haak", "ring"] },
+      { "id": "s2", "difficulty": "easy", "prompt": "Wat gebruik je om de weg te vinden in het bos?", "answer": "kompas", "type": "multiple-choice", "choices": ["kompas", "kaart", "telefoon", "gps"] },
+      { "id": "s3", "difficulty": "easy", "prompt": "In welke vorm bouw je meestal een tent?", "answer": "driehoek", "type": "multiple-choice", "choices": ["driehoek", "vierkant", "cirkel", "rechthoek"] },
+      { "id": "s4", "difficulty": "easy", "prompt": "Wat maak je om warm te blijven op kamp?", "answer": "kampvuur", "type": "multiple-choice", "choices": ["kampvuur", "tent", "slaapzak", "jas"] },
+      { "id": "s13", "difficulty": "easy", "prompt": "Wat gebruik je om water te drinken op kamp?", "answer": "beker", "type": "multiple-choice", "choices": ["beker", "fles", "kom", "pan"] },
+      { "id": "s14", "difficulty": "easy", "prompt": "In welke zak stop je je spullen?", "answer": "rugzak", "type": "multiple-choice", "choices": ["rugzak", "tas", "koffer", "doos"] },
+      { "id": "s15", "difficulty": "easy", "prompt": "Wat gebruik je om in het donker te zien?", "answer": "zaklamp", "type": "multiple-choice", "choices": ["zaklamp", "kaars", "vuur", "lamp"] },
+      { "id": "s16", "difficulty": "easy", "prompt": "Welk dier hoor je 's nachts in het bos?", "answer": "uil", "type": "multiple-choice", "choices": ["uil", "hond", "kat", "koe"] },
+      { "id": "s5", "difficulty": "medium", "prompt": "Welke kleur heeft een kompasnaald die naar het noorden wijst?", "answer": "rood", "type": "multiple-choice", "choices": ["rood", "blauw", "groen", "geel"] },
+      { "id": "s8", "difficulty": "medium", "prompt": "Wat is de scoutingkleur?", "answer": "blauw", "type": "multiple-choice", "choices": ["blauw", "rood", "groen", "geel"] },
+      { "id": "s20", "difficulty": "medium", "prompt": "Hoe heet een groep scouts?", "answer": "patrouille", "type": "multiple-choice", "choices": ["patrouille", "team", "groep", "club"] },
+      { "id": "s12", "difficulty": "hard", "prompt": "Welke richting wijst de zon om 12 uur 's middags?", "answer": "zuiden", "type": "multiple-choice", "choices": ["zuiden", "noorden", "oosten", "westen"] }
+    ]
+  }
+]
